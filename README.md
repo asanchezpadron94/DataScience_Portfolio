@@ -7,3 +7,4 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 
 ## Exercises:
 - [Pandas Exercises (pandas)](https://github.com/asanchezpadron94/DataScience_Portfolio/tree/main/DeepNote/Exercises/pandas_exercises)
+- [SQL Exercises (SQL)](https://github.com/asanchezpadron94/DataScience_Portfolio/tree/main/SQL/SQL_exercises)
