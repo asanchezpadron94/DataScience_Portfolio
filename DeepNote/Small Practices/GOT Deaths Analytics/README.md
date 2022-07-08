@@ -16,7 +16,7 @@ The questions we are going to answer here will be:\
 At the end we are going to create a table with the numbers of deaths by episode and season.
 
 Pandas: 
-https://github.com/asanchezpadron94/Analisis_of_deaths_in_GOT_using_Pandas/blob/main/Main_GOT_project_GoogleVersion.ipynb
+https://github.com/asanchezpadron94/DataScience_Portfolio/blob/main/DeepNote/Small%20Practices/GOT%20Deaths%20Analytics/Main_GOT.ipynb
 
 Tableau (This is a viz not related to the above questions):\
 https://public.tableau.com/app/profile/andr.s.s.nchez/viz/Platzi-Prctica2/MuertesdeGOT2
